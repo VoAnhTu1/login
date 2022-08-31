@@ -48,7 +48,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
         android:layout_marginEnd="100dp"
-        android:text="NguyenDinhTra_2050531200344"
+        android:text="VoAnhTu_2050531200315"
         app:layout_constraintEnd_toStartOf="@+id/imageView3"
         app:layout_constraintHorizontal_bias="0.92"
         app:layout_constraintStart_toEndOf="@+id/view"
